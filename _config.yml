@@ -82,7 +82,7 @@ analytics:
 author:
   name             :
   avatar           : "face.jpg"
-  bio              : "I am a research scientist at DeepMind."
+  bio              : "I am a Research Scientist at DeepMind."
   location         :
   employer         : "DeepMind"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
