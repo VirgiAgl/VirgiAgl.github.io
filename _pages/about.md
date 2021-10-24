@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recenlty joined [DeepMind](https://deepmind.com/) as a Research Scientist! Formerly I was a PhD student in Statistics at the University of Warwick where I was supervised by Dr. Theodoros Damoulas. More information about my background can be found on my [CV](https://github.com/VirgiAgl/VirgiAgl/VirgiAgl.github.io/CV.pdf).
+I recently joined [DeepMind](https://deepmind.com/) as a Research Scientist! Formerly I was a PhD student in Statistics at the University of Warwick where I was supervised by Dr. Theodoros Damoulas. More information about my background can be found on my [CV](https://github.com/VirgiAgl/VirgiAgl/VirgiAgl.github.io/files/CV.pdf).
 
 
 # Research Interests
