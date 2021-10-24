@@ -243,10 +243,10 @@ defaults:
     values:
       layout: talk
       author_profile: true
-  # _ciig
+  # _pubs
   - scope:
       path: ""
-      type: ciig
+      type: publications
     values:
       layout: single
       author_profile: true
