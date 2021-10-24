@@ -1,10 +1,9 @@
 ---
-title: Publications 
+title: "" 
 permalink: /publications/
 type: publications
 ---
 
-# Publications
 * Aglietti V., Dhir N., Gonzalez J. and Damoulas T. (2021). Dynamic Causal Bayesian Optimization, Neural Information Processing Systems (NeurIPS) 2021.
 * Aglietti V., Damoulas T., Alvarez A.M., & Gonzalez J. (2020). [Multi-task Causal Learning with Gaussian Processes](https://arxiv.org/abs/2009.12821), Neural Information Processing Systems (NeurIPS) 2020.
 * Aglietti V., Lu X., Paleyes A., & Gonzalez J. (2020). [Causal Bayesian Optimization](https://arxiv.org/abs/2005.11741), International Conference on Artificial Intelligence and Statistics (AISTATS) 2020.
