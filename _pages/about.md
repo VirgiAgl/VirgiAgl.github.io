@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello world!"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,10 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior research associate at the [Alan Turing Institute](https://www.turing.ac.uk/). Here I am part of the Defence and Security group.
+I recenlty joined [DeepMind](https://deepmind.com/) as a Research Scientist! Formerly I was a PhD student in Statistics at the University of Warwick where I was supervised by Dr. Theodoros Damoulas. More information about my background can be found on my [CV](https://github.com/VirgiAgl/VirgiAgl/VirgiAgl.github.io/CV.pdf).
 
-Currently I am interested in causal inference, optimisation,  the sensor scheduling problem, information geometry and more general experimental design (to mention but a few). I am particularly interested in those topics under the umbrella of dynamical systems theory. Under this aegis, I recently completed some postdoctoral work with [Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/) on the [London Air Quality project](https://www.turing.ac.uk/research/research-projects/london-air-quality), to try to illicit new ideas and understanding in this domain. I also organise [Project Odysseus](https://www.turing.ac.uk/research/research-projects/project-odysseus-understanding-london-busyness-and-exiting-lockdown) - a COVID-19 project.
 
-Before coming to the Alan Turing Institute I, along with others, started a company: [Kamin AI](http://kamin.ai/) in Sweden. Whilst in Sweden I was also working as a research fellow at the University of Liverpool, under the guidance of [Colin Bannard](https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/staff/colin-bannard/) and [Tom Stafford](https://www.sheffield.ac.uk/psychology/staff/academic/tom-stafford), developing NLP-based methods for early diagnosis of Parkinson's disease. That work recently got [published at CoNLL](https://aclanthology.org/2020.conll-1.47.pdf).
+# Research Interests
+My research interests are at the interface of Bayesian statistics and computer science. I am interested in developing scalable *causal* decision making frameworks based on probabilistic models. I have previously worked on machine learning algorithms for multi-task learning with Gaussian processes with a particular focus on point processes models. In terms of applications, I am interested in tackling problems in the social sciences and in healthcare.
 
-*Prior* to all of that (cheeky little Bayesian word-play for you there) I was a DPhil (PhD) student at the University of Oxford, working with [Frank Wood](https://www.cs.ubc.ca/~fwood/), [Ingmar Posner](https://ori.ox.ac.uk/ori-people/ingmar-posner/) and [Michael Osborne](https://www.robots.ox.ac.uk/~mosb/). My thesis focused on Bayesian nonparametric methods and their application to powered prosthetics and behaviour-modelling of prides of African lions [(no, really)](https://ora.ox.ac.uk/objects/uuid:6cf7314d-e33d-468b-9bdc-d91ab609c643).
+# Projects
+
+* I completed a summer internship (July 2020 - January 2021) within the Azua Team in the Microsoft Research Lab in Cambridge.
+* I completed a summer internship at Amazon Supply Chain Optimization Technologies (SCOT) group in Cambridge under the supervision of Javier Gonzalez.
+* I am collaborating with the University of Sydney's Centre for Translational Data Science on Bayesian Optimisation for criminology. This is part of a broader collaboration between the Alan Turing Institute and the Centre for Translational Data Science.
+* I visited CSIRO's Data61 (11/18-02/19) to work on Gaussian Process modulated Poisson Processes.
+* I am a visiting researcher at the Alan Turing Institute and I am part of the Clean Air project. The project aims at developing statistical methodology and machine learning algorithms to support London's Major's office in taking data-driven/evidence based policy decisions in order to improve air quality over the city of London.
+* I collaborated with CUSP London on a project aiming at assessing the impact of traffic policies on the number of accidents happening in London.
+
+
+# Publications
+* Aglietti V., Dhir N., Gonzalez J. and Damoulas T. (2021). Dynamic Causal Bayesian Optimization, Neural Information Processing Systems (NeurIPS) 2021.
+* Aglietti V., Damoulas T., Alvarez A.M., & Gonzalez J. (2020). [Multi-task Causal Learning with Gaussian Processes](https://arxiv.org/abs/2009.12821), Neural Information Processing Systems (NeurIPS) 2020.
+* Aglietti V., Lu X., Paleyes A., & Gonzalez J. (2020). [Causal Bayesian Optimization](https://arxiv.org/abs/2005.11741), International Conference on Artificial Intelligence and Statistics (AISTATS) 2020.
+* Aglietti V., Bonilla E., Damoulas T. & Cripps S. (2019). [Structured Variational Inference in Continuous Cox Process Models](https://arxiv.org/abs/1906.03161), Neural Information Processing Systems (NeurIPS) 2019.
+* Aglietti V., Damoulas T. & Bonilla E. (2019). [Efficient Inference in Multi-task Cox Process Models](https://arxiv.org/abs/1805.09781), International Conference on Artificial Intelligence and Statistics (AISTATS) 2019.
+
+
+
+
+

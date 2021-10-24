@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Neil Dhir"
+title                    : "Virginia Aglietti"
 title_separator          : "-"
-name                     : &name "Neil Dhir"
+name                     : &name "Virginia Aglietti"
 description              : &description "personal description"
-url                      : https://neildhir.github.io
+url                      : https://VirgiAgl.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "neildhir/neildhir.github.io"
+repository               : "VirgiAgl/VirgiAgl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 author:
   name             :
   avatar           : "face.jpg"
-  bio              : "I am a research fellow at the Alan Turing Institute."
+  bio              : "I am a research scientist at DeepMind."
   location         :
-  employer         : "Alan Turing Institute"
+  employer         : "DeepMind"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.uk/citations?user=oXki9tsAAAAJ&hl=en"
-  email            : "ndhir@turing.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Neil_Dhir"
+  googlescholar    : "https://scholar.google.com/citations?user=-itpVyoAAAAJ&hl=en"
+  email            : "agliettivirginia@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Virginia-Aglietti-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "neildhir"
+  github           : "VirgiAgl"
   google_plus      :
   keybase          :
   instagram        :
